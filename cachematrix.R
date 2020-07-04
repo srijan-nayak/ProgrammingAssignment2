@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+# Calling makeCacheMatrix on a matrix gives a special cache matrix whose matrix
+# and inverse matrix can be set or looked up.
+# Calling cacheSolve on a cache matrix returns its cached inverse matrix if
+# available, otherwise returns a newly calculated inverse matrix.
 
 ## Write a short comment describing this function
 
